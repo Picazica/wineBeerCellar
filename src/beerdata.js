@@ -1,0 +1,51 @@
+export const beerBottles = [
+  {
+    name: "Super Bock",
+    img: "https://spar.pt/images/thumbs/0000976_cerveja-super-bock-branca-lata-050lt_550.jpeg",
+    description: "Beer made in Portugal",
+    type: 2,
+    price: "1,30",
+  },
+  {
+    name: "Super Bock",
+    img: "https://spar.pt/images/thumbs/0000976_cerveja-super-bock-branca-lata-050lt_550.jpeg",
+    description: "Beer made in Portugal",
+    type: 2,
+    price: "1,30",
+  },
+  {
+    name: "Super Bock",
+    img: "https://spar.pt/images/thumbs/0000976_cerveja-super-bock-branca-lata-050lt_550.jpeg",
+    description: "Beer made in Portugal",
+    type: 2,
+    price: "1,30",
+  },
+  {
+    name: "Super Bock",
+    img: "https://spar.pt/images/thumbs/0000976_cerveja-super-bock-branca-lata-050lt_550.jpeg",
+    description: "Beer made in Portugal",
+    type: 2,
+    price: "1,30",
+  },
+  {
+    name: "Super Bock",
+    img: "https://spar.pt/images/thumbs/0000976_cerveja-super-bock-branca-lata-050lt_550.jpeg",
+    description: "Beer made in Portugal",
+    type: 2,
+    price: "1,30",
+  },
+  {
+    name: "Super Bock",
+    img: "https://spar.pt/images/thumbs/0000976_cerveja-super-bock-branca-lata-050lt_550.jpeg",
+    description: "Beer made in Portugal",
+    type: 2,
+    price: "1,30",
+  },
+  {
+    name: "Super Bock",
+    img: "https://spar.pt/images/thumbs/0000976_cerveja-super-bock-branca-lata-050lt_550.jpeg",
+    description: "Beer made in Portugal",
+    type: 2,
+    price: "1,30",
+  },
+];

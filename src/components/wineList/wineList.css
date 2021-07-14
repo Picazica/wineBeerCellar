@@ -1,0 +1,28 @@
+.wineList {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.detailsBTN {
+  border: none;
+  border-radius: 10px;
+  padding: 5px 10px;
+  background-color: rgb(78, 125, 141);
+  color: white;
+  cursor: pointer;
+}
+
+.detailsBTN {
+  margin-right: 10px;
+}
+
+.wine {
+  color: rgb(97, 48, 67);
+  font-weight: normal;
+}
+
+.buttons {
+  margin: 10px;
+}

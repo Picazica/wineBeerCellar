@@ -1,0 +1,13 @@
+.about {
+  margin: 10px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  margin: 20px;
+  width: 100%;
+}

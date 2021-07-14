@@ -1,0 +1,58 @@
+export let wineBottles = [
+  {
+    name: "CÁLEM TAWNY",
+    img: "https://i.imgur.com/kerRI0w.jpg",
+    description: "Red wine made in Portugal",
+    type: 1,
+    price: "21,90",
+  },
+  {
+    name: "CÁLEM TAWNY",
+    img: "https://i.imgur.com/kerRI0w.jpg",
+    description: "Red wine made in Portugal",
+    type: 1,
+    price: "21,90",
+  },
+  {
+    name: "CÁLEM TAWNY",
+    img: "https://i.imgur.com/kerRI0w.jpg",
+    description: "Red wine made in Portugal",
+    type: 1,
+    price: "21,90",
+  },
+  {
+    name: "CÁLEM TAWNY",
+    img: "https://i.imgur.com/kerRI0w.jpg",
+    description: "Red wine made in Portugal",
+    type: 1,
+    price: "21,90",
+  },
+  {
+    name: "CÁLEM TAWNY",
+    img: "https://i.imgur.com/kerRI0w.jpg",
+    description: "Red wine made in Portugal",
+    type: 1,
+    price: "21,90",
+  },
+  {
+    name: "CÁLEM TAWNY",
+    img: "https://i.imgur.com/kerRI0w.jpg",
+    description: "Red wine made in Portugal",
+    type: 1,
+    price: "21,90",
+  },
+  {
+    name: "CÁLEM TAWNY",
+    img: "https://i.imgur.com/kerRI0w.jpg",
+    description: "Red wine made in Portugal",
+    type: 1,
+    price: "21,90",
+  },
+  {
+    name: "CÁLEM TAWNY",
+    img: "https://i.imgur.com/kerRI0w.jpg",
+    description: "Red wine made in Portugal",
+    type: 1,
+    price: "21,90",
+  },
+];

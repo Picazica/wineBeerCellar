@@ -1,0 +1,36 @@
+.addBottle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bottle {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputt {
+  height: 20px;
+  padding: 10px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  outline: none;
+}
+
+.selection-items {
+  height: 20px;
+  padding: 10px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  outline: none;
+}
+
+.inputBTN {
+  margin-top: 10px;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 15px;
+  background-color: rgb(78, 125, 141);
+  color: white;
+  cursor: pointer;
+}
